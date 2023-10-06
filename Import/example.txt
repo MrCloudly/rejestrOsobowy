@@ -1,0 +1,7 @@
+Guid: 48c06c04b6e2442baa9f530f8872958c
+Address - city: Katowice, street: Mariacka, houseNo: 5
+Student - firstName: Jakub, lastName: Kowalski, birthDate: 1996-10-15
+;
+Guid: ea598225093a4fb39352081e0b173949
+Address - city: Warszawa, street: Katowicka, houseNo: 10
+Student - firstName: Janusz, lastName: Nowak, birthDate: 2002-07-04

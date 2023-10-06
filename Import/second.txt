@@ -1,0 +1,11 @@
+Guid: ea598225093a4fb39352081e0b173949
+Address - city: Warszawa, street: Poznańska, houseNo: 7
+Student - firstName: Adam, lastName: Zielony, birthDate: 2001-10-09
+;
+Guid: 10d4b222ddc34acab1389b7bc8e03605
+Address - city: Lublin, street: Wielka, houseNo: 5
+Student - firstName: Karolina, lastName: Trawa, birthDate: 2005-03-20
+;
+Guid: 620ac676ea6e41659d5e82178e320ae2
+Address - city: Wadowice, street: Jana Pawła II, houseNo: 10
+Student - firstName: Kamil, lastName: Piotrowicz, birthDate: 2003-04-11
